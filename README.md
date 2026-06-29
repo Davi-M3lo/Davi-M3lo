@@ -1,16 +1,70 @@
-## Hi there 👋
+# Olá, eu sou o Davi Wesley! 👋
 
-<!--
-**Davi-M3lo/Davi-M3lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Informática no IFRN  
+🚀 Apaixonado por tecnologia, programação e desenvolvimento web.  
+📚 Atualmente estudando JavaScript, HTML, CSS e aprofundando meus conhecimentos em desenvolvimento de software.  
+🎯 Sempre buscando aprender novas tecnologias e criar projetos para evoluir como desenvolvedor.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou estudando
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📖 Atualmente aprendendo
+
+- JavaScript
+- HTML5
+- CSS3
+- Git e GitHub
+- Lógica de Programação
+- Desenvolvimento Web
+
+---
+
+## 📂 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante meus estudos, incluindo:
+
+- 🎮 Jogos em JavaScript
+- 🌐 Sites Responsivos
+- 📚 Exercícios de Programação
+- 💡 Projetos acadêmicos
+- ⚙️ Experimentos com novas tecnologias
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Davi-M3lo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-M3lo&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Davi-M3lo&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Davi-M3lo)
+---
+
+## 💭 Frase
+
+> "A melhor forma de aprender programação é construindo projetos."
+
+⭐ Obrigado por visitar meu perfil!
